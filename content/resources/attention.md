@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Study question on attention.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/14ecfa6e5b8d1d02464674079225c745_attention.pdf
+file: /media/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/14ecfa6e5b8d1d02464674079225c745_attention.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: Attention
 uid: 14ecfa6e-5b8d-1d02-4646-74079225c745
