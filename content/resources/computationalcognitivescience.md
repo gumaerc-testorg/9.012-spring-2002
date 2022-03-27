@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 8eec3a5d-16a0-7711-46b2-5edcaffc9f9f
 resourcetype: Document
 title: Computational Cognitive Scienc
 uid: 6d0a4023-c788-25b5-c8c9-e1b046e93d79

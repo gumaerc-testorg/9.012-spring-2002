@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 8eec3a5d-16a0-7711-46b2-5edcaffc9f9f
 resourcetype: Document
 title: Midlevel Vision
 uid: d308035a-1b8e-cedd-ca94-492dcaac68a1
