@@ -1,5 +1,12 @@
 ---
 content_type: page
+description: The readings listed in this section are the foundation of this course.
+  Where available, journal article abstracts from PubMed (an online database providing
+  access to citations from biomedical literature) are included. This list has been
+  compiled by the Department of Brain and Cognitive Sciences, not the course instructor.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 92b82e68-b3f9-44ad-ce0d-d823c6f37ac1
 ---
