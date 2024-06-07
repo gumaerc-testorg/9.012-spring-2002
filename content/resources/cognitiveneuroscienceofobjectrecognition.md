@@ -2,6 +2,7 @@
 content_type: resource
 description: Study questions on cognitive neuroscience of object recognition.
 file: /courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/59de15fa91f29bcddf9885ac18f303ee_cognitiveneuroscienceofobjectrecognition.pdf
+file_size: 67707
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
