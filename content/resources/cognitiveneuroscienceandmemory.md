@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study questions on the cognitive neuroscience of memory.
-file: /courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/a2aedf8fa8d19677b5c10be4a62081c2_cognitiveneuroscienceandmemory.pdf
+file: /ol-ocw-studio-app/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/a2aedf8fa8d19677b5c10be4a62081c2_cognitiveneuroscienceandmemory.pdf
 file_size: 69437
 file_type: application/pdf
 learning_resource_types: []
