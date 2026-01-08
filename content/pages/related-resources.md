@@ -16,62 +16,62 @@ The links below are online references for additional resources in the fields of 
 
 ## Cognition
 
-The {{% resource_link "c7eb7da8-e3e1-414b-94aa-2e8527e24dfe" "Cognitive Science Society" %}} has the latest news and information on conferences, funding, and employment, along with a host of related conferences.
+The [Cognitive Science Society](http://www.cognitivesciencesociety.org/) has the latest news and information on conferences, funding, and employment, along with a host of related conferences.
 
-The {{% resource_link "407367a9-7565-42f0-849e-12b06c062273" "Cognitive Neuroscience Society" %}} is committed to the development of mind and brain research aimed at investigating the psychological, computational, and neuroscientific bases of cognition.
+The [Cognitive Neuroscience Society](http://www.cogneurosociety.org/) is committed to the development of mind and brain research aimed at investigating the psychological, computational, and neuroscientific bases of cognition.
 
-The {{% resource_link "54fcfa14-92b2-470e-91ea-3fe3df54aaac" "American Psychological Society" %}} promotes, protects, and advances the interests of scientifically oriented psychology in research, application, teaching, and the improvement of human welfare.
+The [American Psychological Society](http://www.psychologicalscience.org/) promotes, protects, and advances the interests of scientifically oriented psychology in research, application, teaching, and the improvement of human welfare.
 
-The {{% resource_link "7b425bcc-9f33-405a-b6f4-0458bbf2688a" "Organization for Human Brain Mapping" %}} provides an educational forum for the exchange of up-to-the-minute and ground breaking research across modalities exploring Human Brain Mapping.
+The [Organization for Human Brain Mapping](http://www.humanbrainmapping.org/) provides an educational forum for the exchange of up-to-the-minute and ground breaking research across modalities exploring Human Brain Mapping.
 
-The {{% resource_link "6560e04d-5df3-4340-9538-61812ec598e5" "Psychonomic Society" %}} promotes the communication of scientific research in psychology and allied sciences.
+The [Psychonomic Society](http://www.psychonomic.org/) promotes the communication of scientific research in psychology and allied sciences.
 
-The {{% resource_link "9c7c48ba-7156-4d86-b528-d050f13750f0" "Federation of Behavioral, Psychological and Cognitive Sciences (PDF)" %}} is a coalition of {{% resource_link "d23da8c6-9b37-40a7-adf7-0ef423fd21d2" "Member Organizations" %}}, university departments of psychology, schools of education, research centers, regional psychological associations, and science divisions of the American Psychological Association (APA).
+The [Federation of Behavioral, Psychological and Cognitive Sciences (PDF)](http://cred.columbia.edu/files/2012/01/2009NSTCSBEbriefing.pdf) is a coalition of [Member Organizations](http://www.thefederationonline.org/), university departments of psychology, schools of education, research centers, regional psychological associations, and science divisions of the American Psychological Association (APA).
 
-The {{% resource_link "06226413-d5be-4f8f-aaa3-a7d51f470427" "American Society of Neuroimaging" %}} is an international, professional organization representing neurologists, neurosurgeons, neuroradiologists and other neuroscientists who are dedicated to the advancement of techniques used to evaluate the nervous system.
+The [American Society of Neuroimaging](http://www.asnweb.org/) is an international, professional organization representing neurologists, neurosurgeons, neuroradiologists and other neuroscientists who are dedicated to the advancement of techniques used to evaluate the nervous system.
 
 ## Linguistics
 
-The {{% resource_link "d735f814-a620-4792-b08e-963893198e0d" "American Association for Applied Linguistics" %}} is a professional organization of scholars who are interested in and actively contribute to the multi-disciplinary field of applied linguistics.
+The [American Association for Applied Linguistics](http://www.aaal.org/) is a professional organization of scholars who are interested in and actively contribute to the multi-disciplinary field of applied linguistics.
 
-The {{% resource_link "9953d46a-10b3-4684-b21f-c760c5e48879" "American Philological Association" %}} is the principal learned society for Classical Studies of ancient Greek and Roman languages, literatures, and civilizations.
+The [American Philological Association](http://www.apaclassics.org/) is the principal learned society for Classical Studies of ancient Greek and Roman languages, literatures, and civilizations.
 
-The {{% resource_link "368cd45a-6ef0-4fb7-93ea-f6a114ecec17" "Association for Computational Linguistics" %}} is the international scientific and professional society for people working on problems involving natural language and computation.
+The [Association for Computational Linguistics](http://www.aclweb.org/) is the international scientific and professional society for people working on problems involving natural language and computation.
 
-The {{% resource_link "8872ad04-8bd9-4cea-9357-2cfff5b3b663" "Association for Literary and Linguistic Computing" %}} supports the application of computing in the study of language and literature.
+The [Association for Literary and Linguistic Computing](http://www.allc.org/) supports the application of computing in the study of language and literature.
 
-The {{% resource_link "c8a6b27a-eb34-44b1-b8b9-3408a3b96c15" "Association for Machine Translation in the Americas" %}} is dedicated to anyone interested in the translation of languages using computers in some way.
+The [Association for Machine Translation in the Americas](http://www.amtaweb.org/) is dedicated to anyone interested in the translation of languages using computers in some way.
 
-The {{% resource_link "b6642a79-1978-404d-808b-297e6ba2be83" "International Speech Communication Association" %}} covers all the aspects of Speech Communication, including Acoustics, Phonetics, Phonology, Linguistics, Natural Language Processing, Artificial Intelligence, Cognitive Science, Signal Processing, Pattern Recognition, etc.
+The [International Speech Communication Association](http://www.isca-speech.org/) covers all the aspects of Speech Communication, including Acoustics, Phonetics, Phonology, Linguistics, Natural Language Processing, Artificial Intelligence, Cognitive Science, Signal Processing, Pattern Recognition, etc.
 
-The {{% resource_link "db968cdf-1eee-4085-95fc-d75090c52e8d" "Epigraphic Society" %}} is concerned with the discovery and decipherment of ancient inscriptions.
+The [Epigraphic Society](http://www.epigraphy.org/) is concerned with the discovery and decipherment of ancient inscriptions.
 
-The {{% resource_link "afd4a406-f7fb-4c9a-9e74-b07984e4f08e" "Linguistic Society of America" %}} serves its members through scholarly meetings, publications, and special activities designed to advance the discipline.
+The [Linguistic Society of America](http://www.lsadc.org/) serves its members through scholarly meetings, publications, and special activities designed to advance the discipline.
 
-The {{% resource_link "591198d3-a271-49c5-aacf-89578eea6866" "Philological Society" %}} is devoted to the scholarly study of language and languages.
+The [Philological Society](http://www.philsoc.org.uk/) is devoted to the scholarly study of language and languages.
 
-{{% resource_link "88259903-f795-48e8-9c4c-fffb11b4fdb2" "Society for the Study of Symbolic Interaction" %}} is an international social science professional organization of scholars interested in qualitative, especially interactionist, research.
+[Society for the Study of Symbolic Interaction](https://www.symbolicinteraction.org/) is an international social science professional organization of scholars interested in qualitative, especially interactionist, research.
 
 ## Neuroscience
 
-The {{% resource_link "54992b57-15a9-4960-834e-3d92f0b663df" "Society for Neuroscience" %}} addresses the study of brain development, sensation and perception, learning and memory, movement, sleep, stress, aging and neurological and psychiatric disorders. It also includes the molecules, cells and genes responsible for nervous system functioning.
+The [Society for Neuroscience](http://www.sfn.org/) addresses the study of brain development, sensation and perception, learning and memory, movement, sleep, stress, aging and neurological and psychiatric disorders. It also includes the molecules, cells and genes responsible for nervous system functioning.
 
-The {{% resource_link "d9c06136-9638-4923-be28-3733907a7eb7" "American Epilepsy Society" %}} is committed to the support and enhancement of the study, acquisition, dissemination, and application of medical knowledge concerning epilepsy in all of its phases: biological, clinical and social.
+The [American Epilepsy Society](http://www.aesnet.org/) is committed to the support and enhancement of the study, acquisition, dissemination, and application of medical knowledge concerning epilepsy in all of its phases: biological, clinical and social.
 
-The {{% resource_link "e511159b-0374-42ee-9817-9398f843f79e" "National Institute on Aging" %}} leads a broad scientific effort to understand the nature of aging and to extend the healthy, active years of life.
+The [National Institute on Aging](https://www.nia.nih.gov/about) leads a broad scientific effort to understand the nature of aging and to extend the healthy, active years of life.
 
 ## Online References
 
-{{% resource_link "292ddda1-96ee-4090-a83c-60db992ca168" "The Human Brain" %}} is an online virtual hospital site hosted by the University of Iowa that provides a stunning array of images of the human central nervous system from infants to adult.
+[The Human Brain](http://www.vh.org/Providers/Textbooks/BrainAnatomy/BrainAnatomy.html) is an online virtual hospital site hosted by the University of Iowa that provides a stunning array of images of the human central nervous system from infants to adult.
 
-{{% resource_link "e24ef327-f4cc-49bc-94cb-185725e062e0" "The Whole Brain" %}} atlas is a site that is hosted by the Harvard medical school which displays pictures from MRI to fMRI in various disease states.
+[The Whole Brain](http://www.med.harvard.edu/AANLIB/home.html) atlas is a site that is hosted by the Harvard medical school which displays pictures from MRI to fMRI in various disease states.
 
 ## Computation
 
-Intelligence basically means the ability to perform well on new data after learning a model on the basis of given data. The {{% resource_link "88d1e3a4-1e7a-4de4-9004-44265e4e22ed" "NATO Advanced Study Institute on Learning Theory and Practice" %}} conference promotes the understanding of problems of learning and generalization.
+Intelligence basically means the ability to perform well on new data after learning a model on the basis of given data. The [NATO Advanced Study Institute on Learning Theory and Practice](http://www.esat.kuleuven.ac.be/sista/natoasi/ltp2002.html) conference promotes the understanding of problems of learning and generalization.
 
-The {{% resource_link "46022db7-98de-4b7d-be3c-1e9fdb04cab9" "FoCM Workshop on Learning Theory" %}} supports and promotes research on foundations of computational mathematics. It fosters interaction among mathematics, computer science and other areas of computational science through its conferences, workshops and publications.
+The [FoCM Workshop on Learning Theory](http://www.damtp.cam.ac.uk/user/na/FoCM/index.html) supports and promotes research on foundations of computational mathematics. It fosters interaction among mathematics, computer science and other areas of computational science through its conferences, workshops and publications.
 
-{{% resource_link "8b85045c-d6b4-4287-9099-37a4eecc6a18" "Humanoids IEEE-RAS International Conference on Humanoid Robots" %}}.
+[Humanoids IEEE-RAS International Conference on Humanoid Robots](http://www.humanoids.ws/).
 
-{{% resource_link "98933ea5-43de-47c6-bb69-3c189901f252" "MICCAI98" %}} is an international conference on medical image computing and computer-assisted intervention.
+[MICCAI98](http://www.ai.mit.edu/conferences/miccai98/) is an international conference on medical image computing and computer-assisted intervention.
